@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="99 Default">
+      <UniqueIdentifier>{f8a21831-1c12-4b89-8811-2654188966fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99 Default\리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="98 Headers">
+      <UniqueIdentifier>{9fc400a5-4173-4f44-a138-e26ffbc4d4e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00 MainGame">
+      <UniqueIdentifier>{10afac94-c570-4161-b271-95e63389faaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj">
+      <UniqueIdentifier>{0924a820-3086-465f-b58e-27bbbe40764d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 Manager">
+      <UniqueIdentifier>{c7436801-0efd-44f1-8d82-d1905c40e288}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 Manager\KeyMgr">
+      <UniqueIdentifier>{5414fa94-6095-4b98-970a-5c258a906eb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 Manager\ResourceMgr">
+      <UniqueIdentifier>{22e8127a-4780-4bb9-9d38-4413b02cf056}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\00 Player">
+      <UniqueIdentifier>{7b3db953-ae5b-4090-96df-42ca68e871bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\01 NPC">
+      <UniqueIdentifier>{f06e9f9c-a77a-44cc-b0db-7d1a17e888e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\00 Player\02 Birds">
+      <UniqueIdentifier>{928b6b8d-e5a6-40fe-9471-3246c7cc695f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\00 Player\04 Lizards">
+      <UniqueIdentifier>{ddcee2ae-d2e9-49a6-b4ad-416dd003a178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\00 Player\05 FanClub">
+      <UniqueIdentifier>{b0146f23-b84a-4e8b-926a-fe7aaac21a05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\01 NPC\02 Birds">
+      <UniqueIdentifier>{5ff04e84-eb04-4930-ace5-db3f5ebebe4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\01 NPC\04 Lizards">
+      <UniqueIdentifier>{1e233fe1-feb6-401f-84e1-4802395889f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\01 NPC\05 FanClub">
+      <UniqueIdentifier>{c0eec73e-86e5-4a4b-b785-cec489c869ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="01 Obj\01 NPC\02 Birds\01 Captain">
+      <UniqueIdentifier>{96eec5de-23b5-49ce-a4e2-ffdad36ac5c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\01 NPC\02 Birds\02 Birds">
+      <UniqueIdentifier>{13fbd4ef-e43c-453f-b34e-22d1401e3242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\01 NPC\05 FanClub\Idol">
+      <UniqueIdentifier>{f81398b2-c6e1-46cf-9a8f-863df139f3a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\01 NPC\05 FanClub\Fan">
+      <UniqueIdentifier>{9f604999-5a16-4056-aefb-48ff438bc783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\00 Player\00 MainPlayer">
+      <UniqueIdentifier>{4203ef7f-305c-4ded-a873-e631a2b74c55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 Manager\SoundMgr">
+      <UniqueIdentifier>{c542f32f-26a4-470a-8293-9f12e58218ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\02 Button">
+      <UniqueIdentifier>{4872f171-e3d5-4b34-b680-287a2a216f70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\02 Button\GameIcon">
+      <UniqueIdentifier>{92520ad1-5f71-4736-ad61-efda67328d22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\02 Button\Inventory">
+      <UniqueIdentifier>{b350c613-d5a9-4935-9ddf-b264b932e34f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\02 Button\Opening">
+      <UniqueIdentifier>{7d56b608-b06b-46d2-9bf1-56d2558460a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 Manager\SceneMgr">
+      <UniqueIdentifier>{1e43043f-fe61-4fa7-8c93-34c1ea1b2ec7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 Manager\ObjMgr">
+      <UniqueIdentifier>{070b2fbe-01c8-42a9-be8e-dace6c50575f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 Manager\MouseMgr">
+      <UniqueIdentifier>{762cb60f-7c5c-4612-9b47-2531744e8ea9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02 Manager\StateMachine">
+      <UniqueIdentifier>{5c55ae2d-d200-4afe-9ea6-688aa042d0cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\01 NPC\02 Birds\03 Effect">
+      <UniqueIdentifier>{c36d242d-2fe5-45ba-8097-e524d68671a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene">
+      <UniqueIdentifier>{bb3e2e19-9de8-4dd2-829a-f9cc65bde4eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\00 Opening">
+      <UniqueIdentifier>{34813309-6113-4a22-90fc-8ba810ba8d13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\01 Main UI">
+      <UniqueIdentifier>{f2199005-8530-4b43-bf41-be1a152e55c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage">
+      <UniqueIdentifier>{63b78d4a-7315-490a-860c-9843f6b2d744}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\02 Birds">
+      <UniqueIdentifier>{644b34b5-62e1-4ef1-b4a8-d194bb8eb9d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\04 Lizards">
+      <UniqueIdentifier>{d0558c9a-31cb-4f03-980c-39fb5180c311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\05 FanClub">
+      <UniqueIdentifier>{d1943f8b-fdd3-4716-bcaf-08a7f3cd359d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\02 Birds\01 Intro">
+      <UniqueIdentifier>{0da48ede-6e98-48bf-b0e6-373d9a42d008}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\02 Birds\02 Game">
+      <UniqueIdentifier>{d5d26571-81a4-4f9d-a139-51fef7f83b59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\02 Birds\03 Outro">
+      <UniqueIdentifier>{a04b4297-ffbe-42a2-8e50-529b7bd85d67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\04 Lizards\01 Intro">
+      <UniqueIdentifier>{c8ccd8a6-ac51-4917-ad04-79a89ce4bf4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\04 Lizards\02 Game">
+      <UniqueIdentifier>{a1982080-4aea-424a-baf1-c471dfed6e80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\04 Lizards\03 Outro">
+      <UniqueIdentifier>{5c6032fa-8ea1-4702-8029-2dbb4ec0cef4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\05 FanClub\01 Intro">
+      <UniqueIdentifier>{3010298a-0b0f-45f4-b778-adc7f6c0da2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\05 FanClub\02 Game">
+      <UniqueIdentifier>{a6aaeacc-df28-4365-a6b9-ddd5aed4edb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\02 Stage\05 FanClub\03 Outro">
+      <UniqueIdentifier>{b3a875bd-5a9d-4780-a9c5-8150c9919b92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\00 Player\04 Lizards\Body">
+      <UniqueIdentifier>{c392b632-f3c0-4871-b065-cb7ffb90690b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\00 Player\04 Lizards\Tail">
+      <UniqueIdentifier>{0a867c1d-3672-4756-abed-4734f4661001}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03 Scene\03 Cafe">
+      <UniqueIdentifier>{297607c4-f030-44cc-bb1a-8550db199364}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\02 Button\BackButton">
+      <UniqueIdentifier>{560057aa-30cd-406e-aacd-7daa3f963ba4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01 Obj\02 Button\Medal">
+      <UniqueIdentifier>{8dc583d7-c87f-4fd2-a638-064522d832f3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Extern.h">
+      <Filter>98 Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Typedef.h">
+      <Filter>98 Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>98 Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>98 Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>00 MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>99 Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>99 Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>99 Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>01 Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>02 Manager\KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMgr.h">
+      <Filter>02 Manager\SceneMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceMgr.h">
+      <Filter>02 Manager\ResourceMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="OpeningUI.h">
+      <Filter>03 Scene\00 Opening</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI.h">
+      <Filter>03 Scene\01 Main UI</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Player.h">
+      <Filter>01 Obj\00 Player</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC.h">
+      <Filter>01 Obj\01 NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBird.h">
+      <Filter>01 Obj\00 Player\02 Birds</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerFan.h">
+      <Filter>01 Obj\00 Player\05 FanClub</Filter>
+    </ClInclude>
+    <ClInclude Include="CaptainBird.h">
+      <Filter>01 Obj\01 NPC\02 Birds\01 Captain</Filter>
+    </ClInclude>
+    <ClInclude Include="LizardNPC.h">
+      <Filter>01 Obj\01 NPC\04 Lizards</Filter>
+    </ClInclude>
+    <ClInclude Include="Idol.h">
+      <Filter>01 Obj\01 NPC\05 FanClub\Idol</Filter>
+    </ClInclude>
+    <ClInclude Include="FanNPC.h">
+      <Filter>01 Obj\01 NPC\05 FanClub\Fan</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonUI.h">
+      <Filter>01 Obj\02 Button</Filter>
+    </ClInclude>
+    <ClInclude Include="GameIcon.h">
+      <Filter>01 Obj\02 Button\GameIcon</Filter>
+    </ClInclude>
+    <ClInclude Include="Inven.h">
+      <Filter>01 Obj\02 Button\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="MyResource.h">
+      <Filter>02 Manager\ResourceMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Function.h">
+      <Filter>98 Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>03 Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="OpeningButton.h">
+      <Filter>01 Obj\02 Button\Opening</Filter>
+    </ClInclude>
+    <ClInclude Include="Enum.h">
+      <Filter>98 Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjMgr.h">
+      <Filter>02 Manager\ObjMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="MainPlayer.h">
+      <Filter>01 Obj\00 Player\00 MainPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>02 Manager\SoundMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractFactory.h">
+      <Filter>98 Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseMgr.h">
+      <Filter>02 Manager\MouseMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>02 Manager\StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="StateMachine.h">
+      <Filter>02 Manager\StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerFanState.h">
+      <Filter>01 Obj\00 Player\05 FanClub</Filter>
+    </ClInclude>
+    <ClInclude Include="FanNPCState.h">
+      <Filter>01 Obj\01 NPC\05 FanClub\Fan</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBirdState.h">
+      <Filter>01 Obj\00 Player\02 Birds</Filter>
+    </ClInclude>
+    <ClInclude Include="NPCBird.h">
+      <Filter>01 Obj\01 NPC\02 Birds\02 Birds</Filter>
+    </ClInclude>
+    <ClInclude Include="NPCBirdState.h">
+      <Filter>01 Obj\01 NPC\02 Birds\02 Birds</Filter>
+    </ClInclude>
+    <ClInclude Include="CaptainBirdState.h">
+      <Filter>01 Obj\01 NPC\02 Birds\01 Captain</Filter>
+    </ClInclude>
+    <ClInclude Include="BirdEffect.h">
+      <Filter>01 Obj\01 NPC\02 Birds\03 Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="BlueBirds.h">
+      <Filter>03 Scene\02 Stage\02 Birds\02 Game</Filter>
+    </ClInclude>
+    <ClInclude Include="BirdIntro.h">
+      <Filter>03 Scene\02 Stage\02 Birds\01 Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="BirdOutro.h">
+      <Filter>03 Scene\02 Stage\02 Birds\03 Outro</Filter>
+    </ClInclude>
+    <ClInclude Include="LoveLizards.h">
+      <Filter>03 Scene\02 Stage\04 Lizards\02 Game</Filter>
+    </ClInclude>
+    <ClInclude Include="LoveLizardsIntro.h">
+      <Filter>03 Scene\02 Stage\04 Lizards\01 Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="LoveLizardsOutro.h">
+      <Filter>03 Scene\02 Stage\04 Lizards\03 Outro</Filter>
+    </ClInclude>
+    <ClInclude Include="FanClub.h">
+      <Filter>03 Scene\02 Stage\05 FanClub\02 Game</Filter>
+    </ClInclude>
+    <ClInclude Include="FanClubIntro.h">
+      <Filter>03 Scene\02 Stage\05 FanClub\01 Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="FanClubOutro.h">
+      <Filter>03 Scene\02 Stage\05 FanClub\03 Outro</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerLizard.h">
+      <Filter>01 Obj\00 Player\04 Lizards</Filter>
+    </ClInclude>
+    <ClInclude Include="LizardNPCState.h">
+      <Filter>01 Obj\01 NPC\04 Lizards</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerLizardBody.h">
+      <Filter>01 Obj\00 Player\04 Lizards\Body</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerLizardTail.h">
+      <Filter>01 Obj\00 Player\04 Lizards\Tail</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerLizardBodyState.h">
+      <Filter>01 Obj\00 Player\04 Lizards\Body</Filter>
+    </ClInclude>
+    <ClInclude Include="Cafe.h">
+      <Filter>03 Scene\03 Cafe</Filter>
+    </ClInclude>
+    <ClInclude Include="BackButton.h">
+      <Filter>01 Obj\02 Button\BackButton</Filter>
+    </ClInclude>
+    <ClInclude Include="Medal.h">
+      <Filter>01 Obj\02 Button\Medal</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>99 Default</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>00 MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>01 Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>02 Manager\KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMgr.cpp">
+      <Filter>02 Manager\SceneMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceMgr.cpp">
+      <Filter>02 Manager\ResourceMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="OpeningUI.cpp">
+      <Filter>03 Scene\00 Opening</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI.cpp">
+      <Filter>03 Scene\01 Main UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Client.cpp" />
+    <ClCompile Include="Player.cpp">
+      <Filter>01 Obj\00 Player</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC.cpp">
+      <Filter>01 Obj\01 NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBird.cpp">
+      <Filter>01 Obj\00 Player\02 Birds</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerFan.cpp">
+      <Filter>01 Obj\00 Player\05 FanClub</Filter>
+    </ClCompile>
+    <ClCompile Include="CaptainBird.cpp">
+      <Filter>01 Obj\01 NPC\02 Birds\01 Captain</Filter>
+    </ClCompile>
+    <ClCompile Include="LizardNPC.cpp">
+      <Filter>01 Obj\01 NPC\04 Lizards</Filter>
+    </ClCompile>
+    <ClCompile Include="Idol.cpp">
+      <Filter>01 Obj\01 NPC\05 FanClub\Idol</Filter>
+    </ClCompile>
+    <ClCompile Include="FanNPC.cpp">
+      <Filter>01 Obj\01 NPC\05 FanClub\Fan</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonUI.cpp">
+      <Filter>01 Obj\02 Button</Filter>
+    </ClCompile>
+    <ClCompile Include="GameIcon.cpp">
+      <Filter>01 Obj\02 Button\GameIcon</Filter>
+    </ClCompile>
+    <ClCompile Include="Inven.cpp">
+      <Filter>01 Obj\02 Button\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="MyResource.cpp">
+      <Filter>02 Manager\ResourceMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>03 Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="OpeningButton.cpp">
+      <Filter>01 Obj\02 Button\Opening</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjMgr.cpp">
+      <Filter>02 Manager\ObjMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="MainPlayer.cpp">
+      <Filter>01 Obj\00 Player\00 MainPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>02 Manager\SoundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="MouseMgr.cpp">
+      <Filter>02 Manager\MouseMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerFanState.cpp">
+      <Filter>01 Obj\00 Player\05 FanClub</Filter>
+    </ClCompile>
+    <ClCompile Include="FanNPCState.cpp">
+      <Filter>01 Obj\01 NPC\05 FanClub\Fan</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBirdState.cpp">
+      <Filter>01 Obj\00 Player\02 Birds</Filter>
+    </ClCompile>
+    <ClCompile Include="NPCBird.cpp">
+      <Filter>01 Obj\01 NPC\02 Birds\02 Birds</Filter>
+    </ClCompile>
+    <ClCompile Include="NPCBirdState.cpp">
+      <Filter>01 Obj\01 NPC\02 Birds\02 Birds</Filter>
+    </ClCompile>
+    <ClCompile Include="CaptainBirdState.cpp">
+      <Filter>01 Obj\01 NPC\02 Birds\01 Captain</Filter>
+    </ClCompile>
+    <ClCompile Include="BirdEffect.cpp">
+      <Filter>01 Obj\01 NPC\02 Birds\03 Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="BlueBirds.cpp">
+      <Filter>03 Scene\02 Stage\02 Birds\02 Game</Filter>
+    </ClCompile>
+    <ClCompile Include="BirdIntro.cpp">
+      <Filter>03 Scene\02 Stage\02 Birds\01 Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="BirdOutro.cpp">
+      <Filter>03 Scene\02 Stage\02 Birds\03 Outro</Filter>
+    </ClCompile>
+    <ClCompile Include="LoveLizards.cpp">
+      <Filter>03 Scene\02 Stage\04 Lizards\02 Game</Filter>
+    </ClCompile>
+    <ClCompile Include="LoveLizardsIntro.cpp">
+      <Filter>03 Scene\02 Stage\04 Lizards\01 Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="LoveLizardsOutro.cpp">
+      <Filter>03 Scene\02 Stage\04 Lizards\03 Outro</Filter>
+    </ClCompile>
+    <ClCompile Include="FanClub.cpp">
+      <Filter>03 Scene\02 Stage\05 FanClub\02 Game</Filter>
+    </ClCompile>
+    <ClCompile Include="FanClubIntro.cpp">
+      <Filter>03 Scene\02 Stage\05 FanClub\01 Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="FanClubOutro.cpp">
+      <Filter>03 Scene\02 Stage\05 FanClub\03 Outro</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerLizard.cpp">
+      <Filter>01 Obj\00 Player\04 Lizards</Filter>
+    </ClCompile>
+    <ClCompile Include="LizardNPCState.cpp">
+      <Filter>01 Obj\01 NPC\04 Lizards</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerLizardBody.cpp">
+      <Filter>01 Obj\00 Player\04 Lizards\Body</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerLizardTail.cpp">
+      <Filter>01 Obj\00 Player\04 Lizards\Tail</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerLizardBodyState.cpp">
+      <Filter>01 Obj\00 Player\04 Lizards\Body</Filter>
+    </ClCompile>
+    <ClCompile Include="Cafe.cpp">
+      <Filter>03 Scene\03 Cafe</Filter>
+    </ClCompile>
+    <ClCompile Include="BackButton.cpp">
+      <Filter>01 Obj\02 Button\BackButton</Filter>
+    </ClCompile>
+    <ClCompile Include="Medal.cpp">
+      <Filter>01 Obj\02 Button\Medal</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc">
+      <Filter>99 Default\리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>99 Default\리소스 파일</Filter>
+    </Image>
+    <Image Include="Client.ico">
+      <Filter>99 Default\리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>99 Default</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
